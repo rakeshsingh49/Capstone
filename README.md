@@ -1,1 +1,1 @@
-# Capstone
+# This program is developed on Python and all supporting files are available as part of this program. After running the python code the local host (http://127.0.0.1:5000/) needs to be clicked and then the text should be pasted as input --> Then click on Summarizify button --> The code will trigger the packages and AI program, it will take 30 to 45 secs to complete the summarization.
