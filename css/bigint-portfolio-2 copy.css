@@ -1,0 +1,1081 @@
+/* screen - bigint-portfolio-2 */
+
+.bigint-portfolio-2 {
+  background-color: #252829;
+  height: 4226px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.bigint-portfolio-2 .hero-section-t1nn4X {
+  background-color: transparent;
+  height: 848px;
+  left: 105px;
+  position: absolute;
+  top: 19px;
+  width: 1653px;
+}
+
+.bigint-portfolio-2 .ellipse-1-OsCcT1 {
+  background-color: transparent;
+  height: 847px;
+  left: 934px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 590px;
+}
+
+.bigint-portfolio-2 .hero-left-OsCcT1 {
+  background-color: transparent;
+  height: 329px;
+  left: 0px;
+  position: absolute;
+  top: 178px;
+  width: 800px;
+}
+
+.bigint-portfolio-2 .summarizify-the-augm-HAEC90 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-rufina);
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 400;
+  height: 286px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 755px;
+}
+
+.bigint-portfolio-2 .summarize-safe-time-HAEC90 {
+  background-color: transparent;
+  color: #808080;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 87px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 242px;
+  width: 795px;
+}
+
+.bigint-portfolio-2 .contact-btn-OsCcT1 {
+  background-color: transparent;
+  height: 50px;
+  left: 1px;
+  position: absolute;
+  top: 539px;
+  width: 193px;
+}
+
+.bigint-portfolio-2 .rectangle-1-hzWlci {
+  background-color: var(--hibiscus);
+  border-radius: 38px;
+  height: 50px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 191px;
+}
+
+.bigint-portfolio-2 .learn-more-hzWlci {
+  background-color: transparent;
+  height: 25px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 130px;
+}
+
+.bigint-portfolio-2 .contact-btn-7rz02f {
+  background-color: transparent;
+  border-radius: 38px;
+  height: 52px;
+  left: 216px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 538px;
+  width: 188px;
+}
+
+.bigint-portfolio-2 .contact-6HIRhu {
+  background-color: transparent;
+  height: 25px;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: auto;
+}
+
+.bigint-portfolio-2 .navbar-t1nn4X {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.bigint-portfolio-2 .header-sBsjtF {
+  background-color: var(--tuatara);
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.bigint-portfolio-2 .menu-sBsjtF {
+  background-color: transparent;
+  height: 50px;
+  left: 456px;
+  position: absolute;
+  top: 26px;
+  width: 990px;
+}
+
+.bigint-portfolio-2 .hover-gBZEs7 {
+  background-color: var(--hibiscus);
+  border-radius: 50px;
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 45px;
+  width: 92px;
+}
+
+.bigint-portfolio-2 .home-gBZEs7 {
+  background-color: transparent;
+  height: 31px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: auto;
+}
+
+.bigint-portfolio-2 .summarizer-gBZEs7 {
+  background-color: transparent;
+  height: 31px;
+  left: 250px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: auto;
+}
+
+.bigint-portfolio-2 .about-gBZEs7 {
+  background-color: transparent;
+  height: 31px;
+  left: 138px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: auto;
+}
+
+.bigint-portfolio-2 .my-account-gBZEs7 {
+  background-color: transparent;
+  height: 31px;
+  left: 429px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: auto;
+}
+
+.bigint-portfolio-2 .rectangle-1-gBZEs7 {
+  background-color: var(--hibiscus);
+  border-radius: 10px;
+  height: 50px;
+  left: 789px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 191px;
+}
+
+.bigint-portfolio-2 .sign-up-gBZEs7 {
+  background-color: transparent;
+  height: 25px;
+  left: 836px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 97px;
+}
+
+.bigint-portfolio-2 .logo-sBsjtF {
+  background-color: transparent;
+  height: 50px;
+  left: 142px;
+  position: absolute;
+  top: 26px;
+  width: 212px;
+}
+
+.bigint-portfolio-2 .shimul-dev-w2XWeL {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  height: 50px;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: -1px;
+  width: 210px;
+}
+
+.bigint-portfolio-2 .about-t1nn4X {
+  background-color: transparent;
+  height: 700px;
+  left: 0px;
+  position: absolute;
+  top: 725px;
+  width: 1506px;
+}
+
+.bigint-portfolio-2 .rectangle-5-zv27WF {
+  background-color: var(--tuatara);
+  height: 700px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.bigint-portfolio-2 .rectangle-6-zv27WF {
+  background-color: transparent;
+  height: 576px;
+  left: 118px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 69px;
+  width: 480px;
+}
+
+.bigint-portfolio-2 .about-us-zv27WF {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 686px;
+  letter-spacing: 2.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  width: 130px;
+}
+
+.bigint-portfolio-2 .woman-led-us-made-hippo-lovers-zv27WF {
+  background-color: transparent;
+  height: 100px;
+  left: 686px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 183px;
+  width: 781px;
+}
+
+.bigint-portfolio-2 .summarizify-was-born-zv27WF {
+  background-color: transparent;
+  height: 282px;
+  left: 686px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 283px;
+  width: 670px;
+}
+
+.bigint-portfolio-2 .technology-t1nn4X {
+  background-color: transparent;
+  height: 515px;
+  left: 144px;
+  position: absolute;
+  top: 2703px;
+  width: 1214px;
+}
+
+.bigint-portfolio-2 .what-can-summarify-do-bFCBCp {
+  background-color: transparent;
+  height: 100px;
+  left: 406px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 399px;
+}
+
+.bigint-portfolio-2 .tech-1-bFCBCp {
+  background-color: transparent;
+  height: 338px;
+  left: 0px;
+  position: absolute;
+  top: 174px;
+  width: 362px;
+}
+
+.bigint-portfolio-2 .rectangle-7-wWJc2b {
+  background-color: transparent;
+  border-radius: 15px;
+  height: 338px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 358px;
+}
+
+.bigint-portfolio-2 .rectangle-8-wWJc2b {
+  background-color: transparent;
+  height: 100px;
+  left: 129px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 100px;
+}
+
+.bigint-portfolio-2 .keyword-extraction-wWJc2b {
+  background-color: transparent;
+  height: 40px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 143px;
+  width: 264px;
+}
+
+.bigint-portfolio-2 .extract-keywords-from-all-the-text-wWJc2b {
+  background-color: transparent;
+  height: 91px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 205px;
+  width: 300px;
+}
+
+.bigint-portfolio-2 .tech-1-IRJC4j {
+  background-color: transparent;
+  height: 338px;
+  left: 854px;
+  position: absolute;
+  top: 174px;
+  width: 362px;
+}
+
+.bigint-portfolio-2 .rectangle-7-yISdB6 {
+  background-color: transparent;
+  border-radius: 15px;
+  height: 338px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 358px;
+}
+
+.bigint-portfolio-2 .rectangle-8-yISdB6 {
+  background-color: transparent;
+  height: 80px;
+  left: 128px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 80px;
+}
+
+.bigint-portfolio-2 .save-time-and-money-yISdB6 {
+  background-color: transparent;
+  height: 32px;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 145px;
+  width: auto;
+}
+
+.bigint-portfolio-2 .it-will-drive-cost-d-yISdB6 {
+  background-color: transparent;
+  height: 91px;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 205px;
+  width: 300px;
+}
+
+.bigint-portfolio-2 .tech-1-nmzi6c {
+  background-color: transparent;
+  height: 338px;
+  left: 427px;
+  position: absolute;
+  top: 177px;
+  width: 362px;
+}
+
+.bigint-portfolio-2 .rectangle-7-YJjvyU {
+  background-color: transparent;
+  border-radius: 15px;
+  height: 338px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 358px;
+}
+
+.bigint-portfolio-2 .rectangle-8-YJjvyU {
+  background-color: transparent;
+  height: 100px;
+  left: 129px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 100px;
+}
+
+.bigint-portfolio-2 .summarize-duh-YJjvyU {
+  background-color: transparent;
+  height: 40px;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 140px;
+  width: 264px;
+}
+
+.bigint-portfolio-2 .you-willl-be-able-to-summzize-YJjvyU {
+  background-color: transparent;
+  height: 91px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 205px;
+  width: 300px;
+}
+
+.bigint-portfolio-2 .education-t1nn4X {
+  background-color: transparent;
+  height: 1153px;
+  left: 0px;
+  position: absolute;
+  top: 1425px;
+  width: 1500px;
+}
+
+.bigint-portfolio-2 .rectangle-9-E9ECYU {
+  background-color: var(--tuatara);
+  height: 1153px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.bigint-portfolio-2 .right-E9ECYU {
+  background-color: transparent;
+  height: 756px;
+  left: 860px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 513px;
+}
+
+.bigint-portfolio-2 .left-E9ECYU {
+  background-color: transparent;
+  height: 942px;
+  left: 86px;
+  position: absolute;
+  top: 116px;
+  width: 628px;
+}
+
+.bigint-portfolio-2 .how-was-this-product-developed-1sq1VN {
+  background-color: transparent;
+  height: auto;
+  left: 57px;
+  letter-spacing: 2.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 533px;
+}
+
+.bigint-portfolio-2 .its-about-you-and-for-you-1sq1VN {
+  background-color: transparent;
+  height: 97px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 50px;
+  width: 399px;
+}
+
+.bigint-portfolio-2 .side-line-1sq1VN {
+  background-color: transparent;
+  height: 750px;
+  left: 0px;
+  position: absolute;
+  top: 192px;
+  width: 37px;
+}
+
+.bigint-portfolio-2 .tbd-1sq1VN {
+  background-color: transparent;
+  height: 66px;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 179px;
+  width: 534px;
+}
+
+.bigint-portfolio-2 .to-infinity-and-summarize-1sq1VN {
+  background-color: transparent;
+  height: 43px;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 250px;
+  width: 450px;
+}
+
+.bigint-portfolio-2 .our-team-finalizes-l-1sq1VN {
+  background-color: transparent;
+  height: 116px;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 299px;
+  width: 374px;
+}
+
+.bigint-portfolio-2 .february-7-1sq1VN {
+  background-color: transparent;
+  height: 66px;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 426px;
+  width: 498px;
+}
+
+.bigint-portfolio-2 .summarizfy-is-born-1sq1VN {
+  background-color: transparent;
+  height: 43px;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 497px;
+  width: 317px;
+}
+
+.bigint-portfolio-2 .our-team-decides-on-1sq1VN {
+  background-color: transparent;
+  height: 116px;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 546px;
+  width: 374px;
+}
+
+.bigint-portfolio-2 .january-12-1sq1VN {
+  background-color: transparent;
+  height: 66px;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 678px;
+  width: 498px;
+}
+
+.bigint-portfolio-2 .team-formation-1sq1VN {
+  background-color: transparent;
+  height: 43px;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 749px;
+  width: 317px;
+}
+
+.bigint-portfolio-2 .our-team-meet-for-th-1sq1VN {
+  background-color: transparent;
+  height: 116px;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 798px;
+  width: 374px;
+}
+
+.bigint-portfolio-2 .testimonials-t1nn4X {
+  background-color: transparent;
+  height: 516px;
+  left: 144px;
+  position: absolute;
+  top: 3267px;
+  width: 1216px;
+}
+
+.bigint-portfolio-2 .what-people-saying-6PgeVM {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 2.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 265px;
+}
+
+.bigint-portfolio-2 .clients-6PgeVM {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: 399px;
+}
+
+.bigint-portfolio-2 .testimonials-6PgeVM {
+  background-color: transparent;
+  height: 341px;
+  left: 0px;
+  position: absolute;
+  top: 175px;
+  width: 1212px;
+}
+
+.bigint-portfolio-2 .tech-1-c6y3AS {
+  background-color: transparent;
+  height: 338px;
+  left: 854px;
+  position: absolute;
+  top: 0px;
+  width: 364px;
+}
+
+.bigint-portfolio-2 .rectangle-7-iFxXlx {
+  background-color: transparent;
+  border-radius: 15px;
+  height: 338px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 358px;
+}
+
+.bigint-portfolio-2 .rectangle-8-iFxXlx {
+  background-color: transparent;
+  height: 80px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 59px;
+  width: 80px;
+}
+
+.bigint-portfolio-2 .francis-wolfe-iFxXlx {
+  background-color: transparent;
+  height: 27px;
+  left: 123px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  width: auto;
+}
+
+.bigint-portfolio-2 .honestly-it-has-made-iFxXlx {
+  background-color: transparent;
+  height: 91px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 177px;
+  width: 300px;
+}
+
+.bigint-portfolio-2 .student-iFxXlx {
+  background-color: transparent;
+  color: var(--french-rose);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 123px;
+  letter-spacing: 1.82px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 72px;
+  width: 161px;
+}
+
+.bigint-portfolio-2 .tech-1-YvWaHp {
+  background-color: transparent;
+  height: 338px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 1130px;
+}
+
+.bigint-portfolio-2 .rectangle-7-52HQaE {
+  background-color: transparent;
+  border-radius: 15px;
+  height: 338px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 358px;
+}
+
+.bigint-portfolio-2 .rectangle-8-52HQaE {
+  background-color: transparent;
+  height: 80px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 59px;
+  width: 80px;
+}
+
+.bigint-portfolio-2 .noel-barber-52HQaE {
+  background-color: transparent;
+  height: 27px;
+  left: 123px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  width: auto;
+}
+
+.bigint-portfolio-2 .love-it-its-not-like-52HQaE {
+  background-color: transparent;
+  height: 91px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 177px;
+  width: 300px;
+}
+
+.bigint-portfolio-2 .student-52HQaE {
+  background-color: transparent;
+  height: auto;
+  left: 123px;
+  letter-spacing: 1.82px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 72px;
+  width: 161px;
+}
+
+.bigint-portfolio-2 .vector-52HQaE {
+  background-color: transparent;
+  height: 58px;
+  left: 200px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 242px;
+  width: 66px;
+}
+
+.bigint-portfolio-2 .vector-iQcnJF {
+  background-color: transparent;
+  height: 58px;
+  left: 631px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 242px;
+  width: 66px;
+}
+
+.bigint-portfolio-2 .vector-wlQt8w {
+  background-color: transparent;
+  height: 58px;
+  left: 1058px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 242px;
+  width: 66px;
+}
+
+.bigint-portfolio-2 .tech-1-gknH30 {
+  background-color: transparent;
+  height: 338px;
+  left: 427px;
+  position: absolute;
+  top: 3px;
+  width: 364px;
+}
+
+.bigint-portfolio-2 .rectangle-7-T9expo {
+  background-color: transparent;
+  border-radius: 15px;
+  height: 338px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 358px;
+}
+
+.bigint-portfolio-2 .rectangle-8-T9expo {
+  background-color: transparent;
+  height: 80px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 59px;
+  width: 80px;
+}
+
+.bigint-portfolio-2 .darla-stevenson-T9expo {
+  background-color: transparent;
+  height: 27px;
+  left: 123px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  width: auto;
+}
+
+.bigint-portfolio-2 .it-allows-me-to-save-T9expo {
+  background-color: transparent;
+  height: 91px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 177px;
+  width: 300px;
+}
+
+.bigint-portfolio-2 .business-owner-T9expo {
+  background-color: transparent;
+  height: auto;
+  left: 123px;
+  letter-spacing: 1.82px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 72px;
+  width: 161px;
+}
+
+.bigint-portfolio-2 .designed-with-t1nn4X {
+  background-color: transparent;
+  height: 61px;
+  left: 501px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4131px;
+  width: 173px;
+}
+
+.bigint-portfolio-2 .by-t1nn4X {
+  background-color: transparent;
+  height: 61px;
+  left: 733px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4131px;
+  width: 44px;
+}
+
+.bigint-portfolio-2 .vector-t1nn4X {
+  background-color: transparent;
+  height: 40px;
+  left: 674px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4142px;
+  width: 40px;
+}
+
+.bigint-portfolio-2 .summarizify-t1nn4X {
+  background-color: transparent;
+  color: var(--french-rose);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: 61px;
+  left: 775px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4131px;
+  width: 173px;
+}
+
+.bigint-portfolio-2 .whats-app-image-2022-04-08-at-355-1-t1nn4X {
+  background-color: transparent;
+  height: 93px;
+  left: 21px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 97px;
+}

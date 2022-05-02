@@ -1,0 +1,319 @@
+/* screen - log-in-frame */
+
+.log-in-frame {
+  background-color: transparent;
+  height: 1174px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.log-in-frame .rectangle-13-mKMp0B {
+  background-color: var(--tuatara);
+  height: 1174px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.log-in-frame .log-in-to-your-summarizify-account-mKMp0B {
+  background-color: transparent;
+  height: 112px;
+  left: 355px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 286px;
+  width: 790px;
+}
+
+.log-in-frame .dont-have-an-account-mKMp0B {
+  background-color: transparent;
+  height: 39px;
+  left: 475px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 893px;
+  width: 550px;
+}
+
+.log-in-frame .rectangle-15-mKMp0B {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 88px;
+  left: 272px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 475px;
+  width: 956px;
+}
+
+.log-in-frame .rectangle-16-mKMp0B {
+  background-color: transparent;
+  border: 3px solid var(--persian-pink);
+  border-radius: 20px;
+  height: 88px;
+  left: 272px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 651px;
+  width: 956px;
+}
+
+.log-in-frame .your-email-mKMp0B {
+  background-color: transparent;
+  height: 61px;
+  left: 272px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 411px;
+  width: 155px;
+}
+
+.log-in-frame .password-mKMp0B {
+  background-color: transparent;
+  height: 61px;
+  left: 272px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 587px;
+  width: 205px;
+}
+
+.log-in-frame .enter-your-email-mKMp0B {
+  background-color: transparent;
+  border: 0;
+  height: 61px;
+  left: 303px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 489px;
+  width: 901px;
+}
+
+.log-in-frame .enter-your-email-mKMp0B::placeholder {
+  color: #abadaf99;
+}
+
+.log-in-frame .enter-your-password-mKMp0B {
+  background-color: transparent;
+  border: 0;
+  height: 61px;
+  left: 303px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 665px;
+  width: 901px;
+}
+
+.log-in-frame .enter-your-password-mKMp0B::placeholder {
+  color: #abadaf99;
+}
+
+.log-in-frame .contact-btn-mKMp0B {
+  background-color: transparent;
+  height: 60px;
+  left: 635px;
+  position: absolute;
+  top: 816px;
+  width: 231px;
+}
+
+.log-in-frame .rectangle-1-YRExdR {
+  background-color: var(--hibiscus);
+  border-radius: 38px;
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.log-in-frame .log-in-YRExdR {
+  background-color: transparent;
+  height: 30px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 156px;
+}
+
+.log-in-frame .navbar-mKMp0B {
+  background-color: transparent;
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.log-in-frame .header-0oRDQx {
+  background-color: var(--tuatara);
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.log-in-frame .menu-0oRDQx {
+  background-color: transparent;
+  height: 51px;
+  left: 456px;
+  position: absolute;
+  top: 25px;
+  width: 993px;
+}
+
+.log-in-frame .hover-gufp18 {
+  background-color: var(--hibiscus);
+  border-radius: 50px;
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 46px;
+  width: 92px;
+}
+
+.log-in-frame .home-gufp18 {
+  background-color: transparent;
+  height: 31px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: auto;
+}
+
+.log-in-frame .summarizer-gufp18 {
+  background-color: transparent;
+  height: 31px;
+  left: 250px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: auto;
+}
+
+.log-in-frame .about-gufp18 {
+  background-color: transparent;
+  height: 31px;
+  left: 138px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: auto;
+}
+
+.log-in-frame .my-account-gufp18 {
+  background-color: transparent;
+  height: 31px;
+  left: 429px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: auto;
+}
+
+.log-in-frame .rectangle-1-gufp18 {
+  background-color: var(--hibiscus);
+  border-radius: 10px;
+  height: 50px;
+  left: 792px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 191px;
+}
+
+.log-in-frame .sign-up-gufp18 {
+  background-color: transparent;
+  height: 25px;
+  left: 836px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 97px;
+}
+
+.log-in-frame .logo-0oRDQx {
+  background-color: transparent;
+  height: 93px;
+  left: 45px;
+  position: absolute;
+  top: 5px;
+  width: 309px;
+}
+
+.log-in-frame .shimul-dev-rOkrBw {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  height: 50px;
+  left: 96px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 20px;
+  width: 210px;
+}
+
+.log-in-frame .whats-app-image-2022-04-08-at-355-1-rOkrBw {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 97px;
+}

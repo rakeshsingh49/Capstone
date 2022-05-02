@@ -1,0 +1,10 @@
+/* screen - rectangle-13 */
+
+.rectangle-13 {
+  background-color: var(--tuatara);
+  height: 1654px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}

@@ -1,0 +1,932 @@
+/* screen - landing */
+
+.landing {
+  background-color: var(--white);
+  height: 2893px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1400px;
+}
+
+.landing .digital-agency-LxtcUV {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: var(--font-family-sf_pro_display-bold);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: 18px;
+  left: 1094px;
+  letter-spacing: 3.69px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 179px;
+  white-space: nowrap;
+  width: 191px;
+}
+
+.landing .prospection-LxtcUV {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: var(--font-family-sf_pro_display-thin);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 100;
+  height: 18px;
+  left: 1094px;
+  letter-spacing: 8.10px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 203px;
+  white-space: nowrap;
+  width: 191px;
+}
+
+.landing .websiteapps-LxtcUV {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-sf_pro_display-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+  height: 29px;
+  left: 1094px;
+  letter-spacing: 3.84px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 144px;
+  width: 191px;
+}
+
+.landing .span0-58cEHx {
+  font-style: normal;
+  letter-spacing: 0.92px;
+}
+
+.landing .span1-58cEHx {
+  color: var(--mandy);
+  font-style: normal;
+  letter-spacing: 0.92px;
+}
+
+.landing .span2-58cEHx {
+  font-style: normal;
+  letter-spacing: 0.92px;
+}
+
+.landing .span3-58cEHx {
+  color: var(--mandy);
+  font-style: normal;
+  letter-spacing: 0.92px;
+}
+
+.landing .span4-58cEHx {
+  font-style: normal;
+  letter-spacing: 0.92px;
+}
+
+.landing .qipper-LxtcUV {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: var(--font-family-sf_pro_display-black);
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 900;
+  height: 96px;
+  left: 690px;
+  letter-spacing: 6.24px;
+  line-height: 96px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 136px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.landing .group-2-LxtcUV {
+  background-color: transparent;
+  height: 441px;
+  left: 115px;
+  position: absolute;
+  top: 127px;
+  width: 458px;
+}
+
+.landing .group-10-LxtcUV {
+  background-color: transparent;
+  height: 36px;
+  left: 115px;
+  position: absolute;
+  top: 10px;
+  width: 1180px;
+}
+
+.landing .ellipse-2-2o3eaL {
+  background-color: var(--mandy);
+  border-radius: 7px;
+  height: 14px;
+  left: 586px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 11px;
+  width: 14px;
+}
+
+.landing .home-2o3eaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: 575px;
+  letter-spacing: 2.40px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.landing .home-2o3eaL:hover {
+  transform: rotate(15deg);
+}
+
+.landing .gallery-2o3eaL {
+  background-color: transparent;
+  height: 14px;
+  left: 675px;
+  letter-spacing: 2.40px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: auto;
+}
+
+.landing .about-us-2o3eaL {
+  background-color: transparent;
+  height: 14px;
+  left: 786px;
+  letter-spacing: 2.40px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: auto;
+}
+
+.landing .contacts-2o3eaL {
+  background-color: transparent;
+  height: 14px;
+  left: 910px;
+  letter-spacing: 2.40px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: auto;
+}
+
+.landing .eng-2o3eaL {
+  background-color: transparent;
+  height: 14px;
+  left: 1146px;
+  letter-spacing: 2.40px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 11px;
+  width: auto;
+}
+
+.landing .ellipse-1-2o3eaL {
+  background-color: var(--mandy);
+  border-radius: 2px;
+  height: 4px;
+  left: 1156px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27px;
+  width: 4px;
+}
+
+.landing .logo-2-2o3eaL {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.landing .rectangle-1-LxtcUV {
+  background-color: var(--mandy);
+  border-radius: 2px;
+  cursor: pointer;
+  height: 68px;
+  left: 1094px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 238px;
+  transition: all 0.2s ease;
+  width: 191px;
+}
+
+.landing .rectangle-1-LxtcUV:hover {
+  transform: scale(1.1);
+}
+
+.landing .get-a-discount-LxtcUV {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-sf_pro_display-regular);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 18px;
+  left: 1111px;
+  letter-spacing: 1.17px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 263px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.landing .with-qipper-you-dont-LxtcUV {
+  background-color: transparent;
+  height: auto;
+  left: 690px;
+  letter-spacing: 1.40px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 238px;
+  width: 383px;
+}
+
+.landing .we-have-been-a-close-LxtcUV {
+  background-color: transparent;
+  height: auto;
+  left: 690px;
+  letter-spacing: 1.33px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 320px;
+  width: 595px;
+}
+
+.landing .we-are-doing-this-LxtcUV {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: var(--font-family-sf_pro_display-bold);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: 18px;
+  left: 690px;
+  letter-spacing: 3.69px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 522px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.landing .web-sites-LxtcUV {
+  background-color: transparent;
+  height: auto;
+  left: 690px;
+  letter-spacing: 1.40px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 550px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.landing .android-ios-apps-LxtcUV {
+  background-color: transparent;
+  height: auto;
+  left: 819px;
+  letter-spacing: 1.40px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 550px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.landing .corporate-identity-LxtcUV {
+  background-color: transparent;
+  height: auto;
+  left: 1015px;
+  letter-spacing: 1.40px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 550px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.landing .advertising-LxtcUV {
+  background-color: transparent;
+  height: auto;
+  left: 1204px;
+  letter-spacing: 1.40px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 550px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.landing .rectangle-2-LxtcUV {
+  background-color: var(--concrete);
+  height: 535px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 613px;
+  width: 1400px;
+}
+
+.landing .rectangle-13-LxtcUV {
+  background-color: var(--concrete);
+  height: 552px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1950px;
+  width: 1400px;
+}
+
+.landing .rectangle-18-LxtcUV {
+  background-color: var(--white);
+  height: 391px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2502px;
+  width: 1400px;
+}
+
+.landing .home-LxtcUV {
+  background-color: transparent;
+  height: 14px;
+  left: 415px;
+  letter-spacing: 2.40px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2596px;
+  width: auto;
+}
+
+.landing .gallery-LxtcUV {
+  background-color: transparent;
+  height: 14px;
+  left: 415px;
+  letter-spacing: 2.40px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2620px;
+  width: auto;
+}
+
+.landing .about-us-LxtcUV {
+  background-color: transparent;
+  height: 14px;
+  left: 415px;
+  letter-spacing: 2.40px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2644px;
+  width: auto;
+}
+
+.landing .contacts-LxtcUV {
+  background-color: transparent;
+  height: 14px;
+  left: 415px;
+  letter-spacing: 2.40px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2668px;
+  width: auto;
+}
+
+.landing .site-map-LxtcUV {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: var(--font-family-sf_pro_display-bold);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: 14px;
+  left: 415px;
+  letter-spacing: 2.40px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2562px;
+  width: auto;
+}
+
+.landing .logo-3-LxtcUV {
+  background-color: transparent;
+  height: 87px;
+  left: 115px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2562px;
+  width: 170px;
+}
+
+.landing .group-9-LxtcUV {
+  background-color: transparent;
+  height: 70px;
+  left: 582px;
+  position: absolute;
+  top: 2372px;
+  width: 238px;
+}
+
+.landing .rectangle-17-HYvxZ1 {
+  background-color: var(--mandy);
+  border-radius: 4px;
+  cursor: pointer;
+  height: 70px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 236px;
+}
+
+.landing .rectangle-17-HYvxZ1:hover {
+  transform: translate(0, -5px);
+}
+
+.landing .call-me-HYvxZ1 {
+  background-color: transparent;
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-sf_pro_display-regular);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 18px;
+  left: 79px;
+  letter-spacing: 1.17px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.landing .more-LxtcUV {
+  background-color: transparent;
+  height: auto;
+  left: 1242px;
+  letter-spacing: 1.40px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 1208px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.landing .group-3-LxtcUV {
+  background-color: transparent;
+  height: 94px;
+  left: 115px;
+  position: absolute;
+  top: 673px;
+  width: 438px;
+}
+
+.landing .said-once-a-good-man-UWG9Mz {
+  background-color: transparent;
+  color: var(--abbey);
+  font-family: var(--font-family-sf_pro_display-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 8.88px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 76px;
+  white-space: nowrap;
+  width: 434px;
+}
+
+.landing .just-do-it-UWG9Mz {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 4.68px;
+  line-height: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.landing .lorem-ipsum-is-simpl-LxtcUV {
+  background-color: transparent;
+  height: auto;
+  left: 115px;
+  letter-spacing: 1.40px;
+  line-height: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 808px;
+  width: 434px;
+}
+
+.landing .you-will-be-answered-LxtcUV {
+  background-color: transparent;
+  height: auto;
+  left: 302px;
+  letter-spacing: 1.40px;
+  line-height: 20.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 2160px;
+  width: 498px;
+}
+
+.landing .warning-the-site-was-LxtcUV {
+  background-color: transparent;
+  height: auto;
+  left: 115px;
+  letter-spacing: 1.40px;
+  line-height: 20.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 2669px;
+  width: 170px;
+}
+
+.landing .copyright-2010-2020-LxtcUV {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: var(--font-family-sf_pro_display-regular);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  left: 531px;
+  letter-spacing: 1.00px;
+  line-height: 20.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2812px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.landing .rectangle-3-LxtcUV {
+  background-color: transparent;
+  height: 415px;
+  left: 649px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 673px;
+  width: 636px;
+}
+
+.landing .rectangle-5-LxtcUV {
+  background-color: transparent;
+  height: 264px;
+  left: 115px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1362px;
+  width: 292px;
+}
+
+.landing .rectangle-9-LxtcUV {
+  background-color: transparent;
+  height: 264px;
+  left: 115px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1626px;
+  width: 292px;
+}
+
+.landing .rectangle-6-LxtcUV {
+  background-color: transparent;
+  height: 264px;
+  left: 407px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1362px;
+  width: 293px;
+}
+
+.landing .rectangle-10-LxtcUV {
+  background-color: transparent;
+  height: 264px;
+  left: 407px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1626px;
+  width: 293px;
+}
+
+.landing .rectangle-7-LxtcUV {
+  background-color: transparent;
+  height: 264px;
+  left: 700px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1362px;
+  width: 293px;
+}
+
+.landing .rectangle-11-LxtcUV {
+  background-color: transparent;
+  height: 264px;
+  left: 700px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1626px;
+  width: 293px;
+}
+
+.landing .rectangle-8-LxtcUV {
+  background-color: transparent;
+  height: 264px;
+  left: 993px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1362px;
+  width: 292px;
+}
+
+.landing .rectangle-12-LxtcUV {
+  background-color: transparent;
+  height: 264px;
+  left: 993px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1626px;
+  width: 292px;
+}
+
+.landing .rectangle-4-LxtcUV {
+  background-color: var(--mandy);
+  height: 1px;
+  left: 294px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 787px;
+  width: 76px;
+}
+
+.landing .and-these-are-our-words-LxtcUV {
+  background-color: transparent;
+  color: var(--abbey);
+  font-family: var(--font-family-sf_pro_display-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 115px;
+  letter-spacing: 16.20px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1284px;
+  white-space: nowrap;
+  width: 643px;
+}
+
+.landing .we-can-we-do-LxtcUV {
+  background-color: transparent;
+  height: auto;
+  left: 115px;
+  letter-spacing: 4.68px;
+  line-height: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1208px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.landing .fill-out-the-applica-LxtcUV {
+  background-color: transparent;
+  height: auto;
+  left: 115px;
+  letter-spacing: 9.00px;
+  line-height: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2010px;
+  width: 1170px;
+}
+
+.landing .group-5-LxtcUV {
+  background-color: transparent;
+  height: 36px;
+  left: 115px;
+  position: absolute;
+  top: 2276px;
+  width: 331px;
+}
+
+.landing .rectangle-14-mvozV4 {
+  background-color: var(--concrete);
+  border-radius: 1px;
+  height: 36px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 329px;
+}
+
+.landing .your-name-mvozV4 {
+  background-color: transparent;
+  border: 0;
+  height: 18px;
+  left: 10px;
+  letter-spacing: 1.40px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: justify;
+  top: 10px;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.landing .your-name-mvozV4::placeholder {
+  color: #82828299;
+}
+
+.landing .rectangle-15-mvozV4 {
+  background-color: var(--mandy);
+  border-radius: 1px;
+  height: 2px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 34px;
+  width: 329px;
+}
+
+.landing .group-4-LxtcUV {
+  background-color: transparent;
+  height: 26px;
+  left: 535px;
+  position: absolute;
+  top: 2286px;
+  width: 332px;
+}
+
+.landing .your-telephone-tMjNNF {
+  background-color: transparent;
+  border: 0;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 1.40px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: justify;
+  top: 0px;
+  white-space: nowrap;
+  width: 117px;
+}
+
+.landing .your-telephone-tMjNNF::placeholder {
+  color: #82828299;
+}
+
+.landing .rectangle-15-tMjNNF {
+  background-color: #bdbdbd;
+  border-radius: 1px;
+  height: 2px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24px;
+  width: 330px;
+}
+
+.landing .group-6-LxtcUV {
+  background-color: transparent;
+  height: 26px;
+  left: 956px;
+  position: absolute;
+  top: 2286px;
+  width: 331px;
+}
+
+.landing .your-e-mail-NqE8C2 {
+  background-color: transparent;
+  border: 0;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 1.40px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: justify;
+  top: 0px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.landing .your-e-mail-NqE8C2::placeholder {
+  color: #82828299;
+}
+
+.landing .rectangle-16-NqE8C2 {
+  background-color: #bdbdbd;
+  border-radius: 1px;
+  height: 2px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24px;
+  width: 329px;
+}

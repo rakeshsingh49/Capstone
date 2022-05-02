@@ -1,0 +1,401 @@
+/* screen - sign-up-frame */
+
+.sign-up-frame {
+  background-color: transparent;
+  height: 1280px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.sign-up-frame .rectangle-13-ogjhwh {
+  background-color: var(--tuatara);
+  height: 1280px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.sign-up-frame .sign-up-for-your-summarizify-account-ogjhwh {
+  background-color: transparent;
+  height: 112px;
+  left: 355px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 249px;
+  width: 790px;
+}
+
+.sign-up-frame .already-have-an-account-ogjhwh {
+  background-color: transparent;
+  height: 39px;
+  left: 475px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 1081px;
+  width: 550px;
+}
+
+.sign-up-frame .your-name-ogjhwh {
+  background-color: transparent;
+  height: 61px;
+  left: 272px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 763px;
+  width: 155px;
+}
+
+.sign-up-frame .password-ogjhwh {
+  background-color: transparent;
+  height: 61px;
+  left: 272px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 587px;
+  width: 205px;
+}
+
+.sign-up-frame .your-email-ogjhwh {
+  background-color: transparent;
+  height: 61px;
+  left: 272px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 411px;
+  width: 155px;
+}
+
+.sign-up-frame .email-box-ogjhwh {
+  background-color: transparent;
+  height: 88px;
+  left: 272px;
+  position: absolute;
+  top: 475px;
+  width: 958px;
+}
+
+.sign-up-frame .rectangle-15-HVtbyg {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 88px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 956px;
+}
+
+.sign-up-frame .enter-your-email-HVtbyg {
+  background-color: transparent;
+  border: 0;
+  height: 61px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 14px;
+  width: 886px;
+}
+
+.sign-up-frame .enter-your-email-HVtbyg::placeholder {
+  color: #abadaf99;
+}
+
+.sign-up-frame .password-box-ogjhwh {
+  background-color: transparent;
+  height: 88px;
+  left: 272px;
+  position: absolute;
+  top: 651px;
+  width: 958px;
+}
+
+.sign-up-frame .rectangle-16-DY4Sum {
+  background-color: transparent;
+  border: 3px solid var(--persian-pink);
+  border-radius: 20px;
+  height: 88px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 956px;
+}
+
+.sign-up-frame .enter-your-password-DY4Sum {
+  background-color: transparent;
+  border: 0;
+  height: 61px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 14px;
+  width: 886px;
+}
+
+.sign-up-frame .enter-your-password-DY4Sum::placeholder {
+  color: #abadaf99;
+}
+
+.sign-up-frame .name-box-ogjhwh {
+  background-color: transparent;
+  height: 88px;
+  left: 272px;
+  position: absolute;
+  top: 827px;
+  width: 958px;
+}
+
+.sign-up-frame .rectangle-17-sb7m95 {
+  background-color: transparent;
+  border: 3px solid #f8d9e2;
+  border-radius: 20px;
+  height: 88px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 956px;
+}
+
+.sign-up-frame .enter-your-name-sb7m95 {
+  background-color: transparent;
+  border: 0;
+  height: 61px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 13px;
+  width: 886px;
+}
+
+.sign-up-frame .enter-your-name-sb7m95::placeholder {
+  color: #abadaf99;
+}
+
+.sign-up-frame .sign-up-btn-ogjhwh {
+  background-color: transparent;
+  height: 60px;
+  left: 635px;
+  position: absolute;
+  top: 1009px;
+  width: 231px;
+}
+
+.sign-up-frame .rectangle-1-XJdSzZ {
+  background-color: var(--hibiscus);
+  border-radius: 38px;
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.sign-up-frame .sign-up-XJdSzZ {
+  background-color: transparent;
+  height: 30px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 156px;
+}
+
+.sign-up-frame .navbar-ogjhwh {
+  background-color: transparent;
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.sign-up-frame .header-3xyMjR {
+  background-color: var(--tuatara);
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.sign-up-frame .menu-3xyMjR {
+  background-color: transparent;
+  height: 51px;
+  left: 456px;
+  position: absolute;
+  top: 25px;
+  width: 991px;
+}
+
+.sign-up-frame .hover-6jIc1c {
+  background-color: var(--hibiscus);
+  border-radius: 50px;
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 46px;
+  width: 92px;
+}
+
+.sign-up-frame .home-6jIc1c {
+  background-color: transparent;
+  height: 31px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: auto;
+}
+
+.sign-up-frame .summarizer-6jIc1c {
+  background-color: transparent;
+  height: 31px;
+  left: 250px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: auto;
+}
+
+.sign-up-frame .about-6jIc1c {
+  background-color: transparent;
+  height: 31px;
+  left: 138px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: auto;
+}
+
+.sign-up-frame .my-account-6jIc1c {
+  background-color: transparent;
+  height: 31px;
+  left: 429px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: auto;
+}
+
+.sign-up-frame .sign-up-6jIc1c {
+  background-color: transparent;
+  height: 50px;
+  left: 792px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 191px;
+}
+
+.sign-up-frame .rectangle-1-Hbx4E5 {
+  background-color: var(--hibiscus);
+  border-radius: 10px;
+  height: 50px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 191px;
+}
+
+.sign-up-frame .sign-up-Hbx4E5 {
+  background-color: transparent;
+  height: 25px;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 97px;
+}
+
+.sign-up-frame .logo-3xyMjR {
+  background-color: transparent;
+  height: 93px;
+  left: 45px;
+  position: absolute;
+  top: 5px;
+  width: 309px;
+}
+
+.sign-up-frame .shimul-dev-1tbLhL {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  height: 50px;
+  left: 96px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 20px;
+  width: 210px;
+}
+
+.sign-up-frame .whats-app-image-2022-04-08-at-355-1-1tbLhL {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 97px;
+}
